@@ -1,0 +1,105 @@
+[
+    {
+        "id" :1 ,
+        "name": "How to Grow",
+        "title" : "Learn the best strategies to grow your online store in today's competitive marke",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-1.png"
+
+
+    },
+    {
+        "id" :2 ,
+        "name": "Top 10 Fiction Books",
+        "title" : "A curated list of the best fiction books that are trending this year ",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-2.png"
+
+
+    },
+      
+    {
+        "id" :3 ,
+        "name": "Mastering SEO",
+        "title" : "Tips and tricks to boost your SEO and rank higher on search engines..",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-3.png"
+
+
+    },
+    {
+        "id" :4 ,
+        "name": "Best eCommerce",
+        "title" : "A comprehensive guide on choosing the best eCommerce platforms for 2024.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-4.png"
+
+
+    },
+    {
+        "id" : 5,
+        "name": "Non-Fiction Reads",
+        "title" : "Our top picks for non-fiction books to add to your reading list.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-5.png"
+
+
+    },
+    {
+        "id" :6 ,
+        "name": "Ultimate Guide",
+        "title" : "A complete guide to digital marketing strategies for 2024.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-6.png"
+
+
+    },
+    {
+        "id" :7 ,
+        "name": "The First Days",
+        "title" : "Katie is driving to work one beautiful day when a dead man jumps into her car and tries to eat her.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-7.png"
+
+
+    },
+    {
+        "id" :8 ,
+        "name": "The Hunger Games",
+        "title" : "Could you survive on your own in the wild, with every one out to make sure you don't live to see the morning?",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-8.png"
+
+
+    },
+    {
+        "id" :9 ,
+        "name": "Harry Potter",
+        "title" : "Harry Potter is about to start his fifth year at Hogwarts School of Witchcraft and Wizardry.",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-9.png"
+
+
+    },
+    {
+        "id" :10 ,
+        "name": "Pride and Prejudice",
+        "title" : "he romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy,",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "src/assets/book-10.png"
+
+
+    }
+    
+
+]
